@@ -1,6 +1,6 @@
 {
   "name": "vanitests",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "license": "ISC",
   "author": "",
@@ -8,7 +8,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vanilagy/mediabunny.git"
+    "url": "git+https://github.com/Vanilagy/vanitests.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
